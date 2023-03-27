@@ -1,4 +1,4 @@
-# Social Network
+# Tech Blog
 ![MIT](https://img.shields.io/badge/license-mit-blue)
 
 ## Table of Contents
@@ -11,12 +11,10 @@
 - [License](#license)
 
 ## Description
-Who doesn't want to engage with theirs friends and family across long distances? Social Network will allow users to upload comments and interact with one another through a MongoDB API.
+This tech blog is designed primarily with handlebars and allows tech learners to login and create posts to share updates along their learning journey. It can be used as a studying device or purely as a blog. After users sign up, they'll be able to create and store as many posts as they'd like.
 
-## Installation
-Please fork the repository, install node and mongoose, then run the program as demonstrated.
-
-## Usage
+## Installation & Usage
+To use the program, please install the necessary packages for express, MySQL, handlebars, and bcrypt.
 ![Screenshot of Portfolio Website](./assets/images/Screen%20Shot%202023-02-09%20at%209.22.03%20AM.png "Sarah Jacobs Portfolio")
 
 See [this link]() to view the page.
