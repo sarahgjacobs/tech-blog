@@ -15,9 +15,9 @@ This tech blog is designed primarily with handlebars and allows tech learners to
 
 ## Installation & Usage
 To use the program, please install the necessary packages for express, MySQL, handlebars, and bcrypt.
-![Screenshot of Portfolio Website](./assets/images/Screen%20Shot%202023-02-09%20at%209.22.03%20AM.png "Sarah Jacobs Portfolio")
 
-See [this link]() to view the page.
+
+See [this link](https://techblogr.herokuapp.com/) to view the page.
 
 ## Contributions
 Sarah Jacobs
